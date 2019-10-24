@@ -9,3 +9,5 @@
 [3.Device](https://mustafaev-a.github.io/device/ "Сайт на HTML/CSS")
 
 [4.Sedona](https://mustafaev-a.github.io/Sedona/ "Сайт на HTML/CSS")
+
+[5.DHL](https://mustafaev-a.github.io/DHL/ "Сайт на HTML/CSS")
